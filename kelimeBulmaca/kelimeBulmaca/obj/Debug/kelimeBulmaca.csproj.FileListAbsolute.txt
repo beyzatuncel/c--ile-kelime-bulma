@@ -1,0 +1,14 @@
+C:\Users\beyza\Desktop\c#ödevler\kelimeBulmaca\kelimeBulmaca\bin\Debug\kelimeBulmaca.exe.config
+C:\Users\beyza\Desktop\c#ödevler\kelimeBulmaca\kelimeBulmaca\bin\Debug\kelimeBulmaca.exe
+C:\Users\beyza\Desktop\c#ödevler\kelimeBulmaca\kelimeBulmaca\bin\Debug\kelimeBulmaca.pdb
+C:\Users\beyza\Desktop\c#ödevler\kelimeBulmaca\kelimeBulmaca\obj\Debug\kelimeBulmaca.csproj.AssemblyReference.cache
+C:\Users\beyza\Desktop\c#ödevler\kelimeBulmaca\kelimeBulmaca\obj\Debug\kelimeBulmaca.csproj.CoreCompileInputs.cache
+C:\Users\beyza\Desktop\c#ödevler\kelimeBulmaca\kelimeBulmaca\obj\Debug\kelimeBulmaca.exe
+C:\Users\beyza\Desktop\c#ödevler\kelimeBulmaca\kelimeBulmaca\obj\Debug\kelimeBulmaca.pdb
+C:\Users\beyza\Desktop\ödevlerim\c#ödevler\kelimeBulmaca\kelimeBulmaca\bin\Debug\kelimeBulmaca.exe.config
+C:\Users\beyza\Desktop\ödevlerim\c#ödevler\kelimeBulmaca\kelimeBulmaca\bin\Debug\kelimeBulmaca.exe
+C:\Users\beyza\Desktop\ödevlerim\c#ödevler\kelimeBulmaca\kelimeBulmaca\bin\Debug\kelimeBulmaca.pdb
+C:\Users\beyza\Desktop\ödevlerim\c#ödevler\kelimeBulmaca\kelimeBulmaca\obj\Debug\kelimeBulmaca.csproj.AssemblyReference.cache
+C:\Users\beyza\Desktop\ödevlerim\c#ödevler\kelimeBulmaca\kelimeBulmaca\obj\Debug\kelimeBulmaca.csproj.CoreCompileInputs.cache
+C:\Users\beyza\Desktop\ödevlerim\c#ödevler\kelimeBulmaca\kelimeBulmaca\obj\Debug\kelimeBulmaca.exe
+C:\Users\beyza\Desktop\ödevlerim\c#ödevler\kelimeBulmaca\kelimeBulmaca\obj\Debug\kelimeBulmaca.pdb
